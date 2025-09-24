@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics",
+      "Macroeconomics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Financial Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ]
+  ],
+  "legacy_uid": "502c8491-fa32-e958-54ee-3a570c1647a8",
+  "instructors": {
+    "content": [
+      "e6ebbbde-5b31-8d00-8648-45bfcb534c29"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "26c96341-9269-7816-a6a1-34745f22877b",
+    "website": "14-454-economic-crises-spring-2011"
+  },
+  "course_title": "Economic Crises",
+  "course_description": "14.454 is an introduction to current macroeconomic concerns with particular emphasis on medium-run economic fluctuations, economic crises, and the role of asset markets. Topics include the explanation of high chronic unemployment in some nations, the source of modern liquidity crises, the origin and end of speculative bubbles, and the factors that lead to substantial periods of economic stagnation.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.454",
+  "course_image_thumbnail": {
+    "content": "8ee099b8-1c9e-6129-edec-76a64516a0f2",
+    "website": "14-454-economic-crises-spring-2011"
+  },
+  "learning_resource_types": [
+    "Problem Sets with Solutions",
+    "Lecture Notes"
+  ],
+  "site_uid": "3e3e2b7d-f4ad-4769-b8d5-d853266b8941",
+  "site_short_id": "14.454-spring-2011",
+  "site_url_path": "courses/14-454-economic-crises-spring-2011",
+  "title": "Course Metadata"
+}
